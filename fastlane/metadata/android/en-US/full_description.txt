@@ -1,0 +1,13 @@
+PinDownloader lets you download videos from Pinterest directly to your Android device.
+
+Features:
+- Download videos by pasting or sharing a Pinterest pin URL
+- Automatic highest quality selection
+- Video and audio merged into a single MP4 file
+- Downloads saved to your Gallery
+- Share intent support — share a pin from the Pinterest app
+- Dark mode and Material 3 design
+
+No ads, no tracking, no accounts required. Your privacy is respected — all processing happens on your device.
+
+This app is not affiliated with Pinterest or any third-party service. Users are responsible for downloading only content they own or have permission to download.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkDrop</string>
+    <string name="url_hint">Paste URL</string>
+    <string name="btn_download">Download Best Quality</string>
+    <string name="btn_fetch">Fetch</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_complete">File saved</string>
+    <string name="download_failed">Download failed</string>
+    <string name="no_video">No media found at this URL</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="network_error">Network error. Check connection</string>
+    <string name="channel_name">Downloads</string>
+    <string name="channel_desc">File download notifications</string>
+</resources>
