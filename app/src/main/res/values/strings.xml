@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LinkDrop</string>
+    <string name="app_name">PinDownloader</string>
     <string name="url_hint">Paste URL</string>
     <string name="btn_download">Download Best Quality</string>
     <string name="btn_fetch">Fetch</string>

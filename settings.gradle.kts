@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LinkDrop"
+rootProject.name = "PinDownloader"
 include(":app")
