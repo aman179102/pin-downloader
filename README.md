@@ -15,7 +15,32 @@ Android downloader app with share intent support — download Pinterest videos d
 
 ## Screenshots
 
-*(Add screenshots here before public release)*
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/01-home.jpeg" width="260" alt="Home screen" />
+      <br />
+      <sub>Home screen</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/02-ready-to-download.jpeg" width="260" alt="Ready to download" />
+      <br />
+      <sub>Ready to download</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/03-downloading.jpeg" width="260" alt="Downloading progress" />
+      <br />
+      <sub>Downloading progress</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/04-completion-notification.jpeg" width="260" alt="Download complete notification" />
+      <br />
+      <sub>Download complete</sub>
+    </td>
+  </tr>
+</table>
 
 ## Build Instructions
 
