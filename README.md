@@ -16,29 +16,29 @@ Android downloader app with share intent support — download Pinterest videos d
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/01-home.jpeg" width="220" alt="Home screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/02-ready-to-download.jpeg" width="220" alt="Ready to download" />
+  <img src="screenshots/framed/01-home.png" width="285" alt="Home screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/02-ready-to-download.png" width="285" alt="Ready to download" />
 </p>
 
 <p align="center">
-  <sub><b>Home screen</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Ready to download</b></sub>
+  <b>Home screen</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Ready to download</b>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="screenshots/03-downloading.jpeg" width="220" alt="Downloading progress" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/04-completion-notification.jpeg" width="220" alt="Download complete notification" />
+  <img src="screenshots/framed/03-downloading.png" width="285" alt="Downloading progress" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/04-completion-notification.png" width="285" alt="Download complete notification" />
 </p>
 
 <p align="center">
-  <sub><b>Downloading progress</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Download complete</b></sub>
+  <b>Downloading progress</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Download complete</b>
 </p>
 
 ## Build Instructions
