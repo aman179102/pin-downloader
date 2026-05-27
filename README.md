@@ -16,28 +16,36 @@ Android downloader app with share intent support — download Pinterest videos d
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/framed/01-home.png" width="285" alt="Home screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/framed/02-ready-to-download.png" width="285" alt="Ready to download" />
+  <b>Compact workflow states</b>
 </p>
 
 <p align="center">
-  <b>Home screen</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/02-ready-to-download.png" width="315" alt="Ready to download" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/03-downloading.png" width="315" alt="Downloading progress" />
+</p>
+
+<p align="center">
   <b>Ready to download</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Downloading progress</b>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="screenshots/framed/03-downloading.png" width="285" alt="Downloading progress" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/framed/04-completion-notification.png" width="285" alt="Download complete notification" />
+  <b>Full app views</b>
 </p>
 
 <p align="center">
-  <b>Downloading progress</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/01-home.png" width="250" alt="Home screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/framed/04-completion-notification.png" width="250" alt="Download complete notification" />
+</p>
+
+<p align="center">
+  <b>Home screen</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Download complete</b>
 </p>
 
